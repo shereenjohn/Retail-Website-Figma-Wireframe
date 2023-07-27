@@ -12,5 +12,4 @@ Retalia takes a bold moonshot by introducing an entirely new way of interacting 
 ## More Than Just E-commerce:
 Beyond being a conventional e-commerce platform, Retalia offers an enriching and immersive buying experience. We have equipped Retalia with state-of-the-art technology to understand user behavior, ensuring that every interaction is carefully tailored to meet individual needs. Additionally, our powerful data-based approach provides users with intelligent suggestions and leverages VR technology to enhance their shopping journey.
 
-## Join us on this exciting journey as we redefine the e-commerce landscape, providing an extraordinary experience of buying the things you need. Let's embrace the future of online shopping together with Retalia!
 
